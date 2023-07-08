@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.a0{
+    background-image: url('./images/banner/banner1.png');
+}
+.a1{
+    font-family:sans-serif;
+    font-size: 65px;
+    padding-left: 845px;
+    padding-top: 216px;
+}
+.a2{
+    
+   
+    padding-left: 850px;
+    
+}
+
+.btn{
+    padding: 25px 20px;
+    background-color: #F15B22;
+    color:white;
+    font-size: 20px;
+    display: flex;
+    border: none;
+}
+.a3{
+    padding-left: 970px;
+    padding-bottom: 166px;
+}
+.a7{
+    display: flex;
+    align-items:center ;
+    
+}
+.a5{
+    
+    border-radius:50%;
+    background-image:url("./images/gradient2.png");
+    background-repeat: no-repeat;
+    
+}
+.a6{
+   
+
+    padding-left: 134px;
+}
+.a10{
+    width: 416px;
+    display: block;
+
+}
+.b1{
+    display: flex;
+    justify-content: space-around;
+}
+.b2{
+    text-align: center;
+}
