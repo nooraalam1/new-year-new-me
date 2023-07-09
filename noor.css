@@ -10,21 +10,26 @@
     font-size: 65px;
     padding-left: 845px;
     padding-top: 216px;
-}
-.a2{
-    
+    font-weight: 700;
    
-    padding-left: 850px;
-    
 }
 
+.a2{
+    
+    color: #444343;
+    padding-left: 850px;  
+}
+
+
 .btn{
-    padding: 25px 20px;
+    padding: 22px 17px;
     background-color: #F15B22;
     color:white;
     font-size: 20px;
     display: flex;
     border: none;
+    border-radius: 10px;
+    font-weight: 600;
 }
 .a3{
     padding-left: 970px;
@@ -58,4 +63,50 @@
 }
 .b2{
     text-align: center;
+}
+.c1{
+    margin: 230px;
+    background-image: url("./images/watch.png");
+    background-repeat: no-repeat;
+ 
+  
+}
+.c2{
+    padding: 64px;
+    font-size: 40px;
+    color: white;
+}
+
+.c5{
+    padding: 20px 35px;
+    color: #F15B22;
+    font-weight: 600px;
+}
+.c4{
+    padding-left: 64px;
+    padding-bottom: 60px;
+}
+.z1{
+    background-color: black;
+    color: white;
+}
+.z4{
+    width: 485px;
+}
+.z3{
+    /* padding-left: 230px; */
+}
+.z2{
+    padding-top: 130px;
+    display: flex;
+    justify-content: space-around;
+}
+.z10{
+    padding: 15px 30px;
+    border-radius: 15px;
+    color: #F15B22;
+    
+}
+.logo{
+justify-content: space-between;
 }
